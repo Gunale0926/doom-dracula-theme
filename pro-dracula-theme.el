@@ -260,4 +260,4 @@ determine the exact padding."
   ()
   )
 
-;;; pro-dracula-theme.el ends here
+;;; doom-dracula_pro-theme.el ends here
