@@ -1,7 +1,7 @@
-;;; doom-dracula_pro-theme.el --- inspired by Dracula theme
+;;; pro-dracula-theme.el --- inspired by Dracula theme
 ;;
 ;; Author: Gunale <https://github.com/Gunale0926>
-;; Source: https://github.com/Gunale0926/doom-dracula_pro-theme
+;; Source: https://github.com/Gunale0926/doom-dracula-theme
 ;;
 ;;; Commentary:
 ;;; Code:
